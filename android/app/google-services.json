@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850335019121",
+    "project_id": "realtimetracker-a186f",
+    "storage_bucket": "realtimetracker-a186f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850335019121:android:8c5f8771e5e877af99abd0",
+        "android_client_info": {
+          "package_name": "com.realtimeTracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxL4sHBXY50iUS86uJaZyxpzafwkeh0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
